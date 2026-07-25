@@ -9,4 +9,5 @@ Dive into the basic functions in Excel. Using add into table, fliter, SUM and AV
 ![fliter](images/Task1_2.png)
 3.	Using the ‘SUM’ function, show me the commission total in cell ‘P10’.
 ![sum](images/Task1_3.png)
-5.	Using the ‘AVERAGE’ function, show me the average commission in cell ‘P11’.
+4.	Using the ‘AVERAGE’ function, show me the average commission in cell ‘P11’.
+![average](images/Task1_4.png)
